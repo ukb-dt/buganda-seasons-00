@@ -343,7 +343,7 @@ These are the feeding and support structures:
     <figure style="margin: 0;">
       <div style="overflow: hidden; border-radius: 8px; background: #fff;">
         <img 
-          src="ukhona/kasambula-3.jpg" 
+          src="ukhona/kasambula-1.jpg" 
           alt="Deep attractor basin after repeated descent"
           style="width: 100%; height: auto; display: block;"
         >
